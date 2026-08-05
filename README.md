@@ -116,4 +116,4 @@ The analysis shows that student performance is influenced by:
 
 The project highlights how academic support systems and preparation strategies can significantly improve student outcomes.
 
-Author - Mamta Bisht 
+Author - Umesh Chandra
